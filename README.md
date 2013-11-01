@@ -2,4 +2,5 @@
 
 Get it running locally
 
+    bundle install
     rackup
